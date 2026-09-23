@@ -1,0 +1,174 @@
+# Project 010: AirAsia / Capital A
+
+### History, Restructuring, and the 2026 Crisis
+
+<img src="./outputs/figures/06_liability_reconciliation.png" width="800" alt="Reconciliation showing RM18.41 billion current liabilities, RM2.76 billion of which is lease liabilities, against RM3.87 billion current assets, a RM14.5 billion working capital deficit">
+
+**Part of a [10-case-study portfolio](https://github.com/ooi-darren)**, and the first built around one company's own financial statements as the core structure, pulled directly from primary-source filings rather than relying on secondary reporting.
+
+> AirAsia's shares crashed 21% in September 2026 after reports the government was planning for other airlines to absorb its routes. The CEO called the panic overblown. Reading the actual filed numbers directly: which side is right, and what does either answer mean for a business assessing exposure to this company right now?
+
+## Recommendation
+
+**Treat AirAsia Group's September 2026 crisis as a real, serious liquidity event, not a going-concern collapse: the RM14.5 billion working capital deficit this project reconciles directly from the company's own balance sheet is genuine and larger than either the panic headline or the CEO's rebuttal separately conveyed, but it sits alongside a business that is still operationally sound, whose 2Q26 loss is traceable to an external, potentially temporary fuel price shock rather than mismanagement, and whose parent entity has direct, recent precedent for surviving something more severe.** The government's own revealed response so far is markedly lighter-touch than its 2014 Malaysia Airlines precedent, and a comparable regional carrier (VietJet) grew through the same period, evidence this is more company-specific and fuel-driven than an industry-wide or terminal problem. The Key Strategic Insights section below works through the evidence for each part of this conclusion.
+
+## Executive Summary
+
+This project traces AirAsia and its parent Capital A from their 1993/2001 origins through a two-decade history of parallel corporate distress and recovery, into the exact mechanics of a January 2026 reverse acquisition, and finally into a direct reconciliation of the balance sheet numbers behind the September 2026 crisis headlines. AirAsia was founded in 1993 and bought by Tony Fernandes for RM1 plus ~RM40 million in debt in December 2001; its long-haul affiliate AirAsia X, founded 2006, separately survived a brutal 2020-2023 restructuring that paid creditors just 0.5% of the RM33.65 billion they were owed before exiting PN17 distressed-issuer status in November 2023, becoming clean enough to serve as the vehicle that absorbed Capital A's own aviation businesses in a January 2026 reverse acquisition, closing Capital A's own six-year PN17 chapter in May 2026. Reading the actual filed 2Q26 balance sheet directly (not press summaries) shows the widely-cited RM18.4 billion liabilities figure is real (it is total current liabilities), CEO Tony Fernandes's rebuttal that only RM2.76 billion is lease liabilities is also real, but neither number is the one that matters most: current assets of only RM3.87 billion against it produce a RM14.5 billion working capital deficit against RM954 million cash on hand, the actual liquidity-stress metric neither side's framing stated plainly. That 2Q26 operating loss is traceable to a fuel price shock (average fuel cost $110 to $183/barrel between 1Q26 and 2Q26) rather than a broad cost failure, since non-fuel unit costs actually improved 7% over the same period. Checked against competitors, VietJet grew revenue 13.9% and profit 51.3% over a comparable period while AirAsia's was roughly flat, and Malaysia's own flag carrier MAG just posted its fourth consecutive profitable year, real evidence AirAsia's pressure is company-specific rather than a regional slump. Capital A's own 18% share-price fall on the same crisis day is not sentiment contagion but a direct, calculable consequence of its real 19.5% ownership stake in AirAsia Group. The government's contingency planning (checking whether Malaysia Airlines and Batik Air could absorb domestic routes, hiring Alton Aviation Consultancy to independently assess funding needs) is a markedly lighter-touch response than its 2014 Khazanah-led delisting and buyout of Malaysia Airlines, suggesting either a less severe assessment of the situation or a structural absence of the ownership lever Khazanah held over MAS.
+
+## Research Question
+
+**Is AirAsia Group's September 2026 financial crisis a genuine solvency risk the market correctly priced in, or a specific number that got amplified past what it actually means, and what does the underlying evidence say either way?**
+
+## Key Findings
+
+**1. Both the panic headline and the CEO's rebuttal are individually accurate, and both miss the real number.** RM18.41bn current liabilities (the headline) and RM2.76bn current lease liabilities (Fernandes's rebuttal) are both confirmed directly from the filed 2Q26 balance sheet; the real liquidity-stress metric, a RM14.5bn working capital deficit against RM954m cash, was stated by neither.
+
+**2. The 2Q26 operating loss is fuel-driven, not a broad cost failure.** Average fuel price rose from $110/barrel (1Q26) to $183/barrel (2Q26); CASK ex-fuel actually improved 7% over the same period, evidence of real cost discipline outside the fuel line.
+
+**3. AirAsia X survived something more severe than this before.** Its 2020-2023 restructuring paid creditors 0.5% of RM33.65 billion owed, and it exited PN17 status in November 2023, becoming the very entity that later absorbed Capital A's aviation businesses in January 2026.
+
+**4. A widely-cited fleet crisis figure turned out to be wrong.** Early research suggested ~30% of the fleet was grounded; the company's own disclosures show a 2.4% reduction (245 to 239 aircraft), with a disclosed, orderly 25-aircraft renewal plan behind it.
+
+**5. AirAsia's pressure looks more company-specific than industry-wide.** VietJet grew revenue 13.9% and profit 51.3% (FY2025) over a comparable period; Malaysia Aviation Group posted its fourth consecutive profitable year; Batik Air, the other carrier named in route-absorption reports, discloses no financials at all.
+
+**6. Capital A's 18% share crash is a real, calculable balance-sheet link, not contagion.** Its confirmed 19.5% stake in AirAsia Group was worth approximately RM337 million at crash-day prices, about a third of Capital A's own entire market capitalisation.
+
+**7. The government's response so far is lighter-touch than its own 2014 precedent.** Malaysia Airlines was delisted via a RM1.38bn Khazanah buyout with special legislation in 2014-2015; AirAsia's 2026 situation has produced an external consultancy review and contingency conversations, no ownership action, no legislation, no bailout confirmed as planned.
+
+## Explain It Simply
+
+In September 2026, AirAsia's stock crashed 21% after news that the government was quietly planning for other airlines to take over its routes if things got worse. The company's CEO pushed back hard, saying the scary RM18.4 billion debt figure everyone was citing wasn't the full story. Digging into AirAsia's own actual financial filings shows both of them were telling the truth, and both were leaving something out. The company really does have RM18.4 billion in bills due within a year, and the CEO is right that only a small slice of that is loans on planes. But the real problem is simpler than either framing: AirAsia only has about RM3.9 billion in cash and short-term assets to cover those RM18.4 billion in bills, a RM14.5 billion gap. That's a genuine, serious cash crunch. At the same time, this project found real reasons not to panic completely: the loss driving this crunch is mostly explained by jet fuel prices nearly doubling in three months, not the company mismanaging itself, AirAsia has survived a much worse crisis before, and the government's response so far looks far gentler than what it did the last time a Malaysian airline was in real trouble.
+
+(New to terms like "PN17," "CASK," or "working capital deficit"? See the Glossary near the bottom.)
+
+## Why This Research Matters
+
+News coverage of AirAsia's crisis largely repeated one alarming number or one company rebuttal without reconciling either against the actual filed financial statements. This project pulled the real quarterly reports and investor presentations directly from AirAsia Group, Capital A, and VietJet's own investor relations pages, extracted the underlying figures by hand, and tested both sides of the public debate against them, following the same PUBLIC/DERIVED/ESTIMATED sourcing discipline as every other case study in this portfolio, and disclosing plainly where a claim from earlier research turned out to be wrong (the fleet grounding figure) or where a data source had to be excluded on legal grounds.
+
+## History, Business Model, and Two Restructurings
+
+AirAsia's 1993 founding, 2001 RM1 buyout, and the twin 2020-2023 PN17 sagas of AirAsia X and Capital A that resolved separately before enabling the January 2026 merger, in `notebooks/01_history_and_origins.ipynb`, `notebooks/02_business_model_and_unit_economics.ipynb`, and `notebooks/03_twin_pn17_sagas.ipynb` (Visualisations 1-3).
+
+## The 2026 Restructuring and Capital A's Retained Businesses
+
+The reverse acquisition's exact mechanics, the real revenue discontinuity it created, and how Capital A's retained non-aviation businesses (Teleport, ADE, BigPay) are actually performing, including a live legal dispute over BigPay and Teleport shares, in `notebooks/04_the_2026_restructuring_journey.ipynb` and `notebooks/05_where_capital_as_other_businesses_fit.ipynb` (Visualisations 4-5).
+
+## The Crisis, Diagnosed
+
+The anchor notebook: a direct reconciliation of the RM18.4bn/RM2.8bn/RM14.5bn numbers from the actual filed balance sheet, in `notebooks/06_the_current_crisis_diagnosed.ipynb` (Visualisation 6).
+
+## Fleet, Competitors, Shareholders, and Government Response
+
+Correcting a wrong fleet-grounding claim, an honest three-tier competitive comparison (VietJet/MAG/Batik Air), the real mechanics behind Capital A's own share crash, and how the government's response compares to the 2014 MAS precedent, in `notebooks/07_fleet_and_capacity_rationalization.ipynb`, `notebooks/08_competitive_position.ipynb`, `notebooks/09_shareholder_and_market_impact.ipynb`, and `notebooks/10_government_glc_intervention_playbook.ipynb` (Visualisations 7-10).
+
+## Future Scenarios, Modeling, and a Summary Dashboard
+
+A four-scenario framework (not a prediction), a small, honestly-caveated regression on the fuel-cost relationship, and a static summary dashboard built from this project's own SQL database, in `notebooks/11_future_scenarios_and_whats_next.ipynb` and `notebooks/12_modeling_and_dashboard.ipynb` (Visualisations 11-13).
+
+## Key Strategic Insights
+
+### Insight 1: The real liquidity metric was missing from the public debate entirely
+
+**DATA:** RM18.41bn current liabilities and RM2.76bn current lease liabilities are both confirmed directly from the filed 2Q26 statement; current assets are only RM3.87bn, producing a RM14.5bn working capital deficit against RM954m cash.
+
+**INSIGHT:** A dispute framed as "which number is true" obscured a third number, the actual asset-versus-liability gap, that both sides had access to but neither stated.
+
+**BUSINESS IMPLICATION:** An analyst relying on either the panic headline or the company's own rebuttal alone would misjudge the actual severity of the liquidity position in opposite directions.
+
+**STRATEGIC CONSIDERATION:** Public financial disputes should be checked against the primary filing directly before adopting either side's framing; this project's own SQL database and notebooks show exactly how to do that reproducibly.
+
+### Insight 2: An external, largely temporary shock explains more of this crisis than mismanagement does
+
+**DATA:** Average fuel price rose from $110/barrel (1Q26) to $183/barrel (2Q26); CASK ex-fuel improved 7% over the same period.
+
+**INSIGHT:** The operating loss driving the crisis narrative is substantially attributable to a global commodity shock, not a broad breakdown in cost control.
+
+**BUSINESS IMPLICATION:** If fuel prices ease, a meaningful share of the current pressure could reverse without any restructuring action; if they don't, the pressure persists regardless of what AirAsia does internally.
+
+**STRATEGIC CONSIDERATION:** Assessments of AirAsia's turnaround prospects should track fuel price trends explicitly as a leading indicator, not treat the crisis as a fixed, internally-caused state.
+
+### Insight 3: The government's revealed response is a data point in itself
+
+**DATA:** 2014 MAS: Khazanah buyout (RM1.38bn), delisting, special legislation, 12-point recovery plan. 2026 AirAsia: external consultancy review (Alton Aviation), contingency conversations, no ownership action, no bailout confirmed.
+
+**INSIGHT:** Governments reveal their own assessment of severity through the tools they reach for; a lighter toolkit this time is itself evidence, not just a smaller headline.
+
+**BUSINESS IMPLICATION:** Treating the current government response as equivalent in severity to the 2014 MAS crisis would overstate the situation based on the state's own revealed behaviour.
+
+**STRATEGIC CONSIDERATION:** Scenario planning for this situation (Notebook 11) should weight outcomes toward the lighter end of the range this project's own evidence supports, while still tracking the refinancing outcome as the key swing factor.
+
+## Methodology
+
+Full sourcing discipline follows this portfolio's standing convention: every figure classified PUBLIC / DERIVED / ESTIMATED, primary company filings preferred over press summaries, and every figure paired with compliance context and a direct reference, checked proactively during research rather than as a cleanup step. A wrong claim surfaced during early research (the fleet-grounding figure) was corrected against the primary source rather than left uncorrected; a data-legality issue (verbatim redistribution of whole source PDFs) was identified and resolved by gitignoring the raw documents while keeping the extracted figures, cited with attribution.
+
+## Data Sources
+
+AirAsia Group Berhad and Capital A Berhad investor relations filings (quarterly statements and presentations, 2024-2026, primary source, cited with attribution, not redistributed verbatim); VietJet Aviation JSC 2025 Annual Report (audited); EIA jet fuel price data (US public domain); FRED (St. Louis Fed) MYR/USD exchange rate (open with attribution); Malaysia Aviation Group and Batik Air figures via press coverage (DERIVED, no primary filings exist); Khazanah Nasional press releases; Bursa Malaysia PN17 announcements. Full inline citations in each notebook.
+
+## Notebooks
+
+| # | Question | Data Rigor |
+|---|---|---|
+| [01: History & Origins](./notebooks/01_history_and_origins.ipynb) | How did AirAsia and AirAsia X get here? | PUBLIC |
+| [02: Business Model & Unit Economics](./notebooks/02_business_model_and_unit_economics.ipynb) | What do AirAsia's own real numbers say about its unit economics? | PUBLIC |
+| [03: Twin PN17 Sagas](./notebooks/03_twin_pn17_sagas.ipynb) | Has this group survived something like this before? | PUBLIC |
+| [04: The 2026 Restructuring Journey](./notebooks/04_the_2026_restructuring_journey.ipynb) | What actually happened in January 2026? | PUBLIC |
+| [05: Capital A's Other Businesses](./notebooks/05_where_capital_as_other_businesses_fit.ipynb) | Did the split actually insulate Capital A? | PUBLIC + DERIVED |
+| [06: The Current Crisis, Diagnosed](./notebooks/06_the_current_crisis_diagnosed.ipynb) | Genuine solvency risk, or an amplified number? | PUBLIC + DERIVED |
+| [07: Fleet & Capacity Rationalization](./notebooks/07_fleet_and_capacity_rationalization.ipynb) | Is the fleet actually being grounded at scale? | PUBLIC |
+| [08: Competitive Position](./notebooks/08_competitive_position.ipynb) | Is this company-specific or industry-wide? | PUBLIC + DERIVED |
+| [09: Shareholder & Market Impact](./notebooks/09_shareholder_and_market_impact.ipynb) | Why did Capital A's shares crash too? | PUBLIC + DERIVED |
+| [10: Government/GLC Intervention Playbook](./notebooks/10_government_glc_intervention_playbook.ipynb) | How does this compare to the 2014 MAS precedent? | PUBLIC |
+| [11: Future Scenarios](./notebooks/11_future_scenarios_and_whats_next.ipynb) | What does a realistic range of outcomes look like? | DERIVED |
+| [12: Modeling & Dashboard](./notebooks/12_modeling_and_dashboard.ipynb) | What does the fuel-cost relationship look like formally? | PUBLIC + DERIVED |
+
+## Limitations
+
+The regression in Notebook 12 uses only four comparable quarters of operating data and is explicitly not a reliable predictive model, shown for illustration only; the executive dashboard in the same notebook is a static image, not a live or interactive BI tool, a genuine tooling boundary rather than a data gap; Malaysia Aviation Group's figures are annual only and DERIVED from press coverage since it publishes no quarterly IR-style statements; Batik Air Malaysia publishes no financial statements at all, so its comparison (Notebook 8) is limited to fleet and route counts; the VietJet comparison (Notebook 8) compares a full fiscal year against a single AirAsia quarter, not a perfectly matched period; and this entire project describes a live, unresolved situation as of publication, so the future-scenario framework (Notebook 11) is explicitly scenarios, not a forecast.
+
+## Glossary
+
+Plain-language definitions for the technical terms used in this project.
+
+- **PN17 (Practice Note 17)**: Bursa Malaysia's classification for financially distressed listed companies.
+- **RASK / CASK**: Revenue and Cost per Available Seat Kilometre, the standard airline unit-economics measures.
+- **Working capital deficit**: when current liabilities exceed current assets, a standard liquidity-stress signal.
+- **Reverse acquisition**: an accounting treatment where the legal acquirer is treated as the accounting acquiree, used when the legal subsidiary is economically the larger business.
+- **GLC (Government-Linked Company)**: a company in which the Malaysian government, often through Khazanah Nasional, holds a significant or controlling stake.
+- **PUBLIC / DERIVED / ESTIMATED**: How traceable a number in this project is. **PUBLIC** = taken directly from an official source. **DERIVED** = built by combining, calculating, or extracting from official/company sources this project directly checked. **ESTIMATED** = based on a secondary source that couldn't be independently verified.
+
+## Reproducibility
+
+```bash
+pip install -r requirements.txt
+jupyter notebook notebooks/
+```
+
+All processed data (the SQLite database and small CSVs in `data/processed/`) is committed to this repository. The full source PDFs behind them (AirAsia/Capital A quarterly filings, VietJet's annual report) are **not** committed, per this project's own compliance check: citing extracted figures with attribution is standard practice, but redistributing whole third-party documents verbatim is a different, higher-risk act this project chose not to take. The small EIA and FRED data files (US public domain / open with attribution) are committed in full.
+
+## Project Structure
+
+```
+airasia-capital-a/
+├── README.md
+├── data/
+│   ├── raw/            # EIA, FRED pulls (committed); source PDFs (gitignored, see Reproducibility)
+│   └── processed/       # SQLite database and small CSVs, the actual data this project computed
+├── notebooks/            # 01-12, narrative walkthrough
+├── python/
+│   └── visualisation/     # House chart style
+├── outputs/
+│   └── figures/            # 13 PNG visualisations
+├── requirements.txt
+├── LICENSE
+└── .gitignore
+```
+
+## Sources
+
+Full inline citations with links in each notebook's closing "Sources" cell.
+
+## Author
+
+Darren Ooi, [LinkedIn](https://www.linkedin.com/in/darrenooizhixian)
