@@ -48,7 +48,7 @@ News coverage of AirAsia's crisis largely repeated one alarming number or one co
 
 ## History, Business Model, and Two Restructurings
 
-AirAsia's 1993 founding, 2001 RM1 buyout, and the twin 2020-2023 PN17 sagas of AirAsia X and Capital A that resolved separately before enabling the January 2026 merger, in `notebooks/01_history_and_origins.ipynb`, `notebooks/02_business_model_and_unit_economics.ipynb`, and `notebooks/03_twin_pn17_sagas.ipynb` (Visualisations 1-3).
+AirAsia's 1993 founding and 2001 RM1 buyout, the COVID-19 operational collapse that actually triggered everything that followed (an 87% year-on-year revenue fall and roughly 2,400 layoffs in 2020), the January 2022 rename to Capital A as the group tried to position itself as more than an airline, and the twin 2020-2023 PN17 sagas of AirAsia X and Capital A that resolved separately before enabling the January 2026 merger, in `notebooks/01_history_and_origins.ipynb`, `notebooks/02_business_model_and_unit_economics.ipynb`, and `notebooks/03_twin_pn17_sagas.ipynb` (Visualisations 1-3).
 
 ## The 2026 Restructuring and Capital A's Retained Businesses
 
@@ -159,7 +159,7 @@ airasia-capital-a/
 ├── python/
 │   └── visualisation/     # House chart style
 ├── outputs/
-│   └── figures/            # 13 PNG visualisations
+│   └── figures/            # 14 PNG visualisations
 ├── requirements.txt
 ├── LICENSE
 └── .gitignore
