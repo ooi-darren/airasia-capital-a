@@ -48,7 +48,7 @@ News coverage of AirAsia's crisis largely repeated one alarming number or one co
 
 ## History, Business Model, and Two Restructurings
 
-AirAsia's 1993 founding and 2001 RM1 buyout, the COVID-19 operational collapse that actually triggered everything that followed (an 87% year-on-year revenue fall and roughly 2,400 layoffs in 2020), the January 2022 rename to Capital A as the group tried to position itself as more than an airline, and the twin 2020-2023 PN17 sagas of AirAsia X and Capital A that resolved separately before enabling the January 2026 merger, in `notebooks/01_history_and_origins.ipynb`, `notebooks/02_business_model_and_unit_economics.ipynb`, and `notebooks/03_twin_pn17_sagas.ipynb` (Visualisations 1-3).
+AirAsia's 1993 founding and 2001 RM1 buyout, six fiscal years (FY2020-FY2025) of the group's own revenue and profit history, from a RM1.7 billion COVID-era revenue trough to its first post-pandemic profitable year and into the accounting fragmentation that preceded the 2026 merger, the COVID-19 operational collapse that actually triggered everything that followed (an 87% year-on-year revenue fall and roughly 2,400 layoffs in 2020), the January 2022 rename to Capital A as the group tried to position itself as more than an airline, and the twin 2020-2023 PN17 sagas of AirAsia X and Capital A that resolved separately before enabling the January 2026 merger, in `notebooks/01_history_and_origins.ipynb`, `notebooks/02_business_model_and_unit_economics.ipynb`, and `notebooks/03_twin_pn17_sagas.ipynb` (Visualisations 1-3).
 
 ## The 2026 Restructuring and Capital A's Retained Businesses
 
@@ -104,14 +104,14 @@ Full sourcing discipline follows this portfolio's standing convention: every fig
 
 ## Data Sources
 
-AirAsia Group Berhad and Capital A Berhad investor relations filings (quarterly statements and presentations, 2024-2026, primary source, cited with attribution, not redistributed verbatim); VietJet Aviation JSC 2025 Annual Report (audited); EIA jet fuel price data (US public domain); FRED (St. Louis Fed) MYR/USD exchange rate (open with attribution); Malaysia Aviation Group and Batik Air figures via press coverage (DERIVED, no primary filings exist); Khazanah Nasional press releases; Bursa Malaysia PN17 announcements. Full inline citations in each notebook.
+AirAsia Group Berhad and Capital A Berhad investor relations filings (quarterly statements and presentations, 2024-2026, primary source, cited with attribution, not redistributed verbatim); AirAsia Group / Capital A full-year financial results press releases, FY2020 through FY2025 (AirAsia Newsroom, capitala.com); VietJet Aviation JSC 2025 Annual Report (audited); EIA jet fuel price data (US public domain); FRED (St. Louis Fed) MYR/USD exchange rate (open with attribution); Malaysia Aviation Group and Batik Air figures via press coverage (DERIVED, no primary filings exist); Khazanah Nasional press releases; Bursa Malaysia PN17 announcements. Full inline citations in each notebook.
 
 ## Notebooks
 
 | # | Question | Data Rigor |
 |---|---|---|
 | [01: History & Origins](./notebooks/01_history_and_origins.ipynb) | How did AirAsia and AirAsia X get here? | PUBLIC |
-| [02: Business Model & Unit Economics](./notebooks/02_business_model_and_unit_economics.ipynb) | What do AirAsia's own real numbers say about its unit economics? | PUBLIC |
+| [02: Business Model & Unit Economics](./notebooks/02_business_model_and_unit_economics.ipynb) | What do six years of AirAsia's own real numbers say about its business model and unit economics? | PUBLIC + DERIVED |
 | [03: Twin PN17 Sagas](./notebooks/03_twin_pn17_sagas.ipynb) | Has this group survived something like this before? | PUBLIC |
 | [04: The 2026 Restructuring Journey](./notebooks/04_the_2026_restructuring_journey.ipynb) | What actually happened in January 2026? | PUBLIC |
 | [05: Capital A's Other Businesses](./notebooks/05_where_capital_as_other_businesses_fit.ipynb) | Did the split actually insulate Capital A? | PUBLIC + DERIVED |
@@ -159,7 +159,7 @@ airasia-capital-a/
 ├── python/
 │   └── visualisation/     # House chart style
 ├── outputs/
-│   └── figures/            # 14 PNG visualisations
+│   └── figures/            # 15 PNG visualisations
 ├── requirements.txt
 ├── LICENSE
 └── .gitignore
