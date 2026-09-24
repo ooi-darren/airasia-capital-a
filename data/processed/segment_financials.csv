@@ -1,0 +1,26 @@
+unit,period,period_type,revenue_rm_m,ebitda_rm_m,nop_rm_m,pat_rm_m,note
+Teleport,FY2023,annual,731,20,,,
+Teleport,FY2024,annual,1100,90,,-21,
+Teleport,FY2025,annual,1200,,18.6,,
+Teleport,1Q2026,quarterly,309,22,3.1,,
+Teleport,2Q2026,quarterly,311,26.8,7.6,4.4,
+Teleport,1H2026,half_year,620,48.2,10.7,12.2,
+ADE,FY2023,annual,574,146,,,
+ADE,FY2024,annual,727,138.1,,72.1,EBITDA derived from disclosed 19% margin
+ADE,FY2025,annual,895,205,93,,
+ADE,2Q2026,quarterly,284,69,,,PAT margin 14% disclosed; absolute PAT not stated
+ADE,1H2026,half_year,500,112,62,,"Revenue stated as ""over half a billion""; floor value used"
+AirAsia MOVE,FY2023,annual,689,137,,,
+AirAsia MOVE,FY2025,annual,641,84,,,
+AirAsia MOVE,4Q2025,quarterly,300,,,,
+AirAsia MOVE,1Q2026,quarterly,,14.1,,,Revenue not disclosed at this level for 1Q2026
+AirAsia MOVE,2Q2026,quarterly,96,7,2,,
+AirAsia MOVE,1H2026,half_year,194,14,4.9,,1Q+2Q disclosed EBITDA does not sum to this figure; see Notebook 10
+AirAsia Next,FY2025,annual,246,118,95,,
+AirAsia Next,2Q2026,quarterly,78,26,22,,
+AirAsia Next,1H2026,half_year,166,63,53,,
+Santan,FY2023,annual,132,23,,,
+Santan,1Q2026,quarterly,50.4,,,,
+Santan,2Q2026,quarterly,45,2,1,,Revenue stated as flat YoY on a normalised basis
+Santan,1H2026,half_year,95,4,2,,
+The Airline (AirAsia Group),2Q2026,quarterly,5085.584,442.589,-256.08,-830.521,"NOP and PAT are airline-specific metrics (Notebook 5), not directly comparable to Capital A units' NOP/PAT definitions"
