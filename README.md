@@ -4,7 +4,7 @@
 
 <img src="./outputs/figures/13_portfolio_scorecard.png" width="800" alt="Scorecard showing the airline's EBITDA down 56% year-on-year, a far sharper deterioration than any of Capital A's five retained businesses (ADE, Teleport, AirAsia MOVE, AirAsia Next, Santan)">
 
-**Part of a [10-case-study portfolio](https://github.com/ooi-darren)**, and the first built around one company's own financial statements as the core structure, pulled directly from primary-source filings rather than relying on secondary reporting.
+**Part of a [11-case-study portfolio](https://github.com/ooi-darren)**, and the first built around one company's own financial statements as the core structure, pulled directly from primary-source filings rather than relying on secondary reporting.
 
 > AirAsia's shares crashed 21% in September 2026 after reports the government was planning for other airlines to absorb its routes. But "AirAsia" today is actually two separate companies with five other businesses between them, logistics, aircraft maintenance, a travel app, a fintech brand, and a catering arm. Reading every piece of this ecosystem directly from primary filings: is the whole empire in trouble, or is this one business's crisis being mistaken for the whole group's?
 
